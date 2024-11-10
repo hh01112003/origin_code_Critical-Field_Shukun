@@ -1,1 +1,1 @@
-# origin_code_Critical-Field_Shukun
+I created four Python scripts to facilitate quick batch analysis of critical field data. The convert_to_csv script converts all .dat files in a folder into .csv format. The import_to_multiple_csv script removes unnecessary text from the .dat files, cleaning them for further analysis. Finally, the Gaussian distribution fit script analyzes the processed data using a Gaussian statistical model and visualizes the results.
